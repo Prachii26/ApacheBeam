@@ -1,0 +1,3 @@
+{"event_time": "2025-10-22T20:21:50.113498Z", "user_id": 21, "amount": 128.37, "category": "other", "amount_tier": "high", "user_bucket": 1, "is_high_value": true}
+{"event_time": "2025-10-22T20:34:26.113498Z", "user_id": 26, "amount": 141.02, "category": "travel", "amount_tier": "high", "user_bucket": 6, "is_high_value": true}
+{"event_time": "2025-10-22T20:37:03.113498Z", "user_id": 25, "amount": 112.97, "category": "fashion", "amount_tier": "high", "user_bucket": 5, "is_high_value": true}
